@@ -1,3 +1,4 @@
+/*
 pipeline {
     agent any
     tools {
@@ -39,3 +40,4 @@ pipeline {
         }
     }
 }
+*/
